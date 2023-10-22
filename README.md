@@ -15,16 +15,18 @@ To run this project on your local machine, you need to have the following softwa
 - PHP (version 7.0 or higher)
 - MySQL or any other SQL database server
 - Web server (Apache recommended)
+- XAMPP or similar software for local development enviroment setup.
 
 ## Installation
 
 1. Clone the repository or download the ZIP file.
 2. Extract the files to your web server's root directory or any desired directory.
-3. Create a new database in your SQL server.
-4. Import the database.sql file into your newly created database.
-5. Open the config.php file located in the includes directory.
-6. Update the database connection details (hostname, username, password, and database name) in the config.php file.
-7. Save the config.php file.
+3. Start XAMPP or similar software and start the Apache and MySQL services.
+4. Open phpMyAdmin or any other SQL database management tool.
+5. Create a new database and import the database.sql file into it.
+6. Open the config.php file located in the includes directory.
+7. Update the database connection details (hostname, username, password, and database name) in the config.php file.
+8. Save the config.php file.
 
 ## Support
 
