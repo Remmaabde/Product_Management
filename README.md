@@ -10,6 +10,8 @@ This is a web-based product management system built using HTML, CSS, PHP, and SQ
 
 ## Pictures
 ![product2](https://github.com/Remmaabde/Product_Management/assets/107676935/c546391b-b1d5-4940-b563-ce7782e0e7bd)
+![product1](https://github.com/Remmaabde/Product_Management/assets/107676935/3b54dc07-bd79-4374-82ae-1af6d5d3c296)
+
 
 
 ## Requirements
