@@ -8,6 +8,10 @@ This is a web-based product management system built using HTML, CSS, PHP, and SQ
 - Add, edit, and delete products, categories, and suppliers
 - Database storage for storing product information
 
+## Pictures
+![product2](https://github.com/Remmaabde/Product_Management/assets/107676935/c546391b-b1d5-4940-b563-ce7782e0e7bd)
+
+
 ## Requirements
 
 To run this project on your local machine, you need to have the following software installed:
